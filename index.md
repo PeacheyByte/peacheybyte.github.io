@@ -15,7 +15,10 @@ We create intuitive, offline-capable apps for collectors, hobbyists, and creativ
 <div style="display:flex; flex-direction:column; gap:10px; align-items:flex-start;">
 
 [**The Collection Curator**](https://play.google.com/store/apps/details?id=com.peachbyte.sellventory){: .btn }
-: Track, manage, and export your collections with ease.  
+: Track, manage, and export your collections with ease.
+
+[**The Asset Curator**]
+: Track and Manage your personal or organisations Assets and equipment.
 
 [**EhWot**](#){: .btn }
 : A playful text and cipher translator (coming soon).  
@@ -25,13 +28,13 @@ We create intuitive, offline-capable apps for collectors, hobbyists, and creativ
 ---
 
 ## About the Studio  
-Peacheybyte Studios is operated by **Leon Peachey (ABN: [your ABN here])**.  
+Peacheybyte Studios is own and ooperated by **Leon Peachey (ABN: 42 617 334 369)**.  
 We specialise in developing lightweight, privacy-friendly Android and desktop tools for independent users — without ads, accounts, or subscriptions.  
 
 ---
 
 ## Contact  
-📧 leonpeachey@gmail.com  
+📧 peacheybyte.studios@gmail.com  
 📍 Canberra, ACT, Australia  
 
 © 2025 Peacheybyte Studios
