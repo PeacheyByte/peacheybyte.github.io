@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Peacheybyte Studios
 description: Independent Australian developer
+include:
+  - assets/css/custom.css
