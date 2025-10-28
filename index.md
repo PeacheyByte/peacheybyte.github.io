@@ -33,7 +33,7 @@ A playful text & cipher translator (coming soon).
 ---
 
 ## About the Studio  
-Peacheybyte Studios is own and ooperated by **Leon Peachey (ABN: 42 617 334 369)**.  
+Peacheybyte Studios is own and operated by **Leon Peachey (ABN: 42 617 334 369)**.  
 We specialise in developing lightweight, privacy-friendly Android and desktop tools for independent users — without ads, accounts, or subscriptions.  
 
 ---
