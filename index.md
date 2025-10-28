@@ -14,7 +14,7 @@ Welcome to **Peacheybyte Studios**, an independent development studio based in C
 ## Our Apps
 <div markdown="1" style="display:flex; flex-direction:column; gap:12px; align-items:flex-start;">
 
-<a class="btn" href="https://play.google.com/store/apps/details?id=com.peachbyte.sellventory"
+<a class="btn" href="https://peacheybyte.github.io/sellventory"
    style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**The Collection Curator**</a>  
 Track, manage, and export your collections with ease.
 
