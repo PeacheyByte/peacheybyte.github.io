@@ -20,7 +20,7 @@ Track, manage, and export your collections with ease.
 
 <a class="btn" href="#"
    style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**The Asset Curator**</a>  
-Track and manage your personal or organisation’s assets and equipment.
+Track and manage your personal or organisation’s assets and equipment (coming soon).
 
 <a class="btn" href="#"
    style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**EhWot**</a>  
