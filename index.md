@@ -14,16 +14,20 @@ Welcome to **Peacheybyte Studios**, an independent development studio based in C
 ## Our Apps
 <div markdown="1" style="display:flex; flex-direction:column; gap:12px; align-items:flex-start;">
 
-<a class="btn" href="https://play.google.com/store/apps/details?id=com.peachbyte.sellventory"><strong>The Collection Curator</strong></a>  
+<a class="btn" href="https://play.google.com/store/apps/details?id=com.peachbyte.sellventory"
+   style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**The Collection Curator**</a>  
 Track, manage, and export your collections with ease.
 
-<a class="btn" href="#"><strong>The Asset Curator</strong></a>  
-Track and manage your personal or organisation’s assets and equipment (coming soon).
+<a class="btn" href="#"
+   style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**The Asset Curator**</a>  
+Track and manage your personal or organisation’s assets and equipment.
 
-<a class="btn" href="#"><strong>EhWot</strong></a>  
+<a class="btn" href="#"
+   style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**EhWot**</a>  
 A playful text & cipher translator (coming soon).
 
 </div>
+
 
 
 ---
