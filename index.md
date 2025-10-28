@@ -18,7 +18,7 @@ Welcome to **Peacheybyte Studios**, an independent development studio based in C
 Track, manage, and export your collections with ease.
 
 <a class="btn" href="#"><strong>The Asset Curator</strong></a>  
-Track and manage your personal or organisation’s assets and equipment.
+Track and manage your personal or organisation’s assets and equipment (coming soon).
 
 <a class="btn" href="#"><strong>EhWot</strong></a>  
 A playful text & cipher translator (coming soon).
