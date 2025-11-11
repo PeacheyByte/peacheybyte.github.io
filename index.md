@@ -44,3 +44,6 @@ We specialise in developing lightweight, privacy-friendly Android and desktop to
 📍 Canberra, ACT, Australia  
 
 © 2025 Peacheybyte Studios
+
+---
+{% include footer.html %}
