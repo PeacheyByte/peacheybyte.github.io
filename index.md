@@ -6,7 +6,7 @@ title: Peacheybyte Studios
 # Peacheybyte Studios  
 ### Independent Australian Developer
 
-Welcome to **Peacheybyte Studios**, an independent development studio based in Canberra, Australia. We create intuitive, offline-capable apps for collectors, hobbyists, and creative thinkers—focused on simplicity, privacy, and control.
+Welcome to **Peacheybyte Studios**, an independent development studio based in Canberra, Australia. Creating intuitive, offline-capable apps for small organisations, collectors, hobbyists, and creative thinkers—focused on simplicity, privacy, and control.
 
 
 ---
@@ -33,7 +33,7 @@ A playful text & cipher translator (coming soon).
 
 ## About the Studio  
 Peacheybyte Studios is own and operated by **Leon Peachey (ABN: 42 617 334 369)**.  
-We specialise in developing lightweight, privacy-friendly Android and desktop tools for independent users — without ads, accounts, or subscriptions.  
+Specialising in the development of lightweight, privacy-friendly Android and desktop tools for independent users.  
 
 
 
