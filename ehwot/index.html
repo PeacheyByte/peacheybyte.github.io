@@ -1,0 +1,100 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- Core GitHub Pages + your custom styles -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload"
+          href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap"
+          as="style"
+          type="text/css"
+          crossorigin>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+    {% include head-custom.html %}
+
+    <title>EhWot – PeacheyByte Studios</title>
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">PeacheyByte Studios</h1>
+      <h2 class="project-tagline">EhWot – Text encoding made simple</h2>
+
+      <!-- Simple nav buttons back to the main site and TCC -->
+      <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+      <a href="{{ '/collection-curator/' | relative_url }}" class="btn">The Collection Curator</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      <h1>EhWot – Text encoding made simple</h1>
+
+      <p>
+        EhWot is a small tool with a big personal history behind it.
+        It was the first app that eventually led to the creation of
+        PeacheyByte Studios, and the idea goes all the way back to my
+        early days learning about computers.
+      </p>
+
+      <p>
+        When younger, a lifetime ago, I spent a lot of time exploring Usenet,
+        message boards, and the simple tricks people used to share text
+        in fun or unusual ways. ROT-N, ASCII shifts, little ciphers,
+        Pig Latin, Morse code.
+      </p>
+
+      <p>
+        EhWot started as a small project to recreate that feeling while also
+        learning the art of app development. the result was a compact,
+        no-nonsense encoder and decoder that captures the spirit of earlier
+        while using the tools of today today.
+      </p>
+
+      <p>
+        The app supports a range of quick conversions – ROT-N, binary,
+        hexadecimal, reverse, and Morse code – with more to
+        come over time. It’s fast, lightweight, and designed to be
+        something you can open, use instantly, and close again without
+        any fuss.
+      </p>
+
+      <p>
+        EhWot isn’t meant to be a cryptography or security tool.
+        It’s a nostalgic nod to the early days of the internet, when
+        people shared and taught each other things, and
+        experimented just to see what they could make computers do.
+      </p>
+
+      <p>
+        If you’ve used The Collection Curator, the companion app, or
+        anything else from PeacheyByte Studios, this is where it all
+        began.
+      </p>
+
+      <!-- Later you can drop a Play Store button / icon here -->
+      <!-- Example placeholder:
+      <p class="download-row">
+        <a href="PLAY_STORE_LINK_HERE" class="btn-primary">
+          Get EhWot on Google Play
+        </a>
+      </p>
+      -->
+
+      <footer class="site-footer">
+        <span class="site-footer-owner">
+          EhWot is a project by PeacheyByte Studios.
+        </span>
+      </footer>
+    </main>
+  </body>
+</html>
