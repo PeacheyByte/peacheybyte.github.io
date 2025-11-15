@@ -1,17 +1,24 @@
 <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=7' | relative_url }}">
 
-<!-- Optional App Icon (uncomment if you want to add one later)
-<p align="center">
-  <img src="ehwot-icon.png" alt="EhWot logo" width="120">
-</p>
--->
-
-<!-- NAVIGATION BUTTONS (same style as TCC) -->
-<div class="sv-nav">
-  <a class="sv-btn" href="/">PeacheyByte Studios Home</a>
+<!-- Navigation button -->
+<div style="text-align: center; margin: 1.5em 0;">
+  <a
+    href="/"
+    style="
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 0 5px;
+      background-color: #0366d6;
+      color: #ffffff;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+    "
+  >
+    Peacheybyte Studios Home
+  </a>
 </div>
 
-<!-- BODY CONTENT -->
 ## EhWot – Text encoding made simple
 
 EhWot is a small tool with a big personal history behind it.  
