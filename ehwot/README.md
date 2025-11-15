@@ -59,7 +59,7 @@ this is where it all began.
 ---
 <div style="text-align:center; margin: 40px 0;">
   <a
-    href="https://play.google.com/store/apps/details?id=com.peacheybyte.ehwot"
+    href="https://play.google.com/store/apps/details?id=com.ehwot"
     aria-label="Get EhWot on Google Play"
   >
     <img
