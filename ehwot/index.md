@@ -3,13 +3,6 @@ title: EhWot
 layout: default
 ---
 
-<header class="page-header" role="banner">
-  <h1 class="project-name">EhWot</h1>
-  <h2 class="project-tagline">Text encoding made simple</h2>
-</header>
-
-<main id="content" class="main-content" role="main">
-
 <p class="download-row">
   <a href="{{ '/' | relative_url }}" class="btn btn-primary">
     PeacheyByte Studios Home
@@ -21,7 +14,7 @@ layout: default
   -->
 </p>
 
-# EhWot – Text encoding made simple
+## EhWot – Text encoding made simple
 
 EhWot is a small tool with a big personal history behind it. It was the first app
 that eventually led to the creation of PeacheyByte Studios, and the idea goes all
@@ -50,5 +43,3 @@ PeacheyByte Studios, this is where it all began.
 ---
 
 {% include footer.html %}
-
-</main>
