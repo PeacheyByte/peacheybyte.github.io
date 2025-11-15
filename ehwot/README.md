@@ -57,5 +57,19 @@ or anything else from PeacheyByte Studios,
 this is where it all began.
 
 ---
+<div style="text-align:center; margin: 40px 0;">
+  <a
+    href="https://play.google.com/store/apps/details?id=com.peacheybyte.ehwot"
+    aria-label="Get EhWot on Google Play"
+  >
+    <img
+      src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+      alt="Get it on Google Play"
+      style="width:180px; height:auto;"
+    >
+  </a>
+</div>
+
+---
 
 {% include footer.html %}
