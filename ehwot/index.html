@@ -35,18 +35,44 @@
 
     <main id="content" class="main-content" role="main">
 
-      <!-- Blue button row like on the TCC page -->
-      <p class="download-row">
-        <a href="{{ '/' | relative_url }}" class="btn btn-primary">
+            <!-- Blue button row (inline-styled so it always shows) -->
+      <div style="text-align: center; margin: 1.5em 0;">
+        <a
+          href="{{ '/' | relative_url }}"
+          style="
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 0 5px;
+            background-color: #0366d6;
+            color: #ffffff;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+          "
+        >
           PeacheyByte Studios Home
         </a>
+
         <!-- Optional: uncomment when you have an Asset Curator page -->
         <!--
-        <a href="{{ '/asset-curator/' | relative_url }}" class="btn btn-primary">
+        <a
+          href="{{ '/asset-curator/' | relative_url }}"
+          style="
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 0 5px;
+            background-color: #0366d6;
+            color: #ffffff;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+          "
+        >
           The Asset Curator
         </a>
         -->
-      </p>
+      </div>
+
 
       <h1>EhWot – Text encoding made simple</h1>
 
