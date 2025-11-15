@@ -1,6 +1,6 @@
 ---
 title: EhWot
-layout: page
+layout: default
 ---
 
 <p class="download-row">
