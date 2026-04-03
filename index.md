@@ -18,9 +18,9 @@ Welcome to **Peacheybyte Studios**, an independent development studio based in C
    style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**The Collection Curator**</a>  
 Track, manage, and export your collections with ease.
 
-<a class="btn" href="#"
+<a class="btn" href="https://peacheybyte.github.io/asset-curator/"
    style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**The Asset Curator**</a>  
-Track and manage your personal or organisation’s assets and equipment (coming soon).
+Track and manage your personal or organisation’s assets and equipment.
 
 <a class="btn" href="https://peacheybyte.github.io/ehwot/"
    style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**EhWot**</a>  
