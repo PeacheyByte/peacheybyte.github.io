@@ -1,8 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
 title: Peacheybyte Studios
-description: Independent Australian developer
+description: Software Development & Mobile Applications
 include:
   - assets/css/custom.css
-include: ["google5c3e357712631093.html"]
-
-
+  - "google5c3e357712631093.html"
