@@ -1,3 +1,10 @@
+---
+layout: default
+title: Peacheybyte Studios
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 <div class="studio-header">
   <h1 class="studio-title">Peacheybyte Studios</h1>
   <p class="studio-tagline">Software Development & Mobile Applications</p>
