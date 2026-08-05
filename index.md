@@ -1,41 +1,30 @@
----
-layout: default
-title: Peacheybyte Studios
----
-
-# Peacheybyte Studios  
-### Independent Australian Developer
-
-Welcome to **Peacheybyte Studios**, an independent development studio based in Canberra, Australia. Creating intuitive, offline-capable apps for small organisations, collectors, hobbyists, and creative thinkers—focused on simplicity, privacy, and control.
-
-
----
-
-## Our Apps
-<div markdown="1" style="display:flex; flex-direction:column; gap:12px; align-items:flex-start;">
-
-<a class="btn" href="https://peacheybyte.github.io/collection-curator/"
-   style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**The Collection Curator**</a>  
-Track, manage, and export your collections with ease.
-
-<a class="btn" href="https://peacheybyte.github.io/asset-curator/"
-   style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**The Asset Curator**</a>  
-Track and manage your personal or organisation’s assets and equipment.
-
-<a class="btn" href="https://peacheybyte.github.io/ehwot/"
-   style="background-color:#1e6bb8;border-color:#1e6bb8;color:#fff;">**EhWot**</a>  
-A text & cipher translator.
-
+<div class="studio-header">
+  <h1 class="studio-title">Peacheybyte Studios</h1>
+  <p class="studio-tagline">Software Development & Mobile Applications</p>
 </div>
 
+Welcome to **Peacheybyte Studios**. We focus on building simple, reliable, and functional applications designed for offline usability, asset tracking, and day-to-day productivity.
 
 ---
 
-## About the Studio  
-Peacheybyte Studios is own and operated by **Leon Peachey (ABN: 42 617 334 369)**.  
-Specialising in the development of lightweight, privacy-friendly Android and desktop tools for independent users.  
+<div class="app-grid">
 
+  <div class="app-card">
+    <h2>The Collection Curator</h2>
+    <p>Manage personal collections locally by location, price, and tags without requiring cloud syncing or complex setups.</p>
+    <a class="btn-link" href="https://peacheybyte.github.io/collection-curator/">Explore Collection Curator</a>
+  </div>
 
+  <div class="app-card">
+    <h2>The Asset Curator</h2>
+    <p>An advanced asset management solution featuring QR code scanning, maintenance tracking, and multi-user database sharing.</p>
+    <a class="btn-link" href="https://peacheybyte.github.io/asset-curator/">Explore Asset Curator</a>
+  </div>
 
----
-{% include footer.html %}
+  <div class="app-card">
+    <h2>EhWot</h2>
+    <p>A simple, lightweight text translator app built for quick and direct translations.</p>
+    <a class="btn-link" href="https://peacheybyte.github.io/ehwot/">Explore EhWot</a>
+  </div>
+
+</div>
