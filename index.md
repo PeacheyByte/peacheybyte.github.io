@@ -4,7 +4,11 @@ title: Peacheybyte Studios
 tagline: Software Development & Mobile Applications
 ---
 
-Welcome to **Peacheybyte Studios**. We focus on building simple, reliable, and functional applications designed for offline usability, asset tracking, and day-to-day productivity.
+Welcome to **Peacheybyte Studios**. We focus on building simple, reliable, and functional software solutions designed around data privacy, practical utility, and everyday productivity.
+
+Whether you need lightweight offline utility, personal collection management, or scalable multi-user asset and maintenance tracking, our applications are built to stay fast, dependable, and easy to use without the fluff.
+
+Explore our current lineup below:
 
 <div class="app-grid">
 
