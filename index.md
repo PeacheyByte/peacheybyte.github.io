@@ -9,8 +9,7 @@ Welcome to **Peacheybyte Studios**. We focus on building simple, reliable, and f
 
 Whether you need lightweight offline utility, personal collection management, or scalable multi-user asset and maintenance tracking, our applications are built to stay fast, dependable, and easy to use without the fluff.
 
-### Explore our current lineup below:
-{: style="text-align: center; margin-bottom: 1.5rem;"}
+<h3 style="text-align: center; margin-bottom: 1.5rem;">Explore our current lineup below:</h3>
 
 ---
 
@@ -18,7 +17,9 @@ Whether you need lightweight offline utility, personal collection management, or
 
 Manage personal collections locally by location, price, and tags without requiring cloud syncing or complex setups.
 
-[Explore Collection Curator](https://peacheybyte.github.io/collection-curator/){: .btn }
+<div style="margin-top: 1rem;">
+  <a href="https://peacheybyte.github.io/collection-curator/" class="btn" style="background-color: #007bff; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; display: inline-block;">Explore Collection Curator</a>
+</div>
 
 ---
 
@@ -26,7 +27,9 @@ Manage personal collections locally by location, price, and tags without requiri
 
 An advanced asset management solution featuring QR code scanning, maintenance tracking, and multi-user database sharing.
 
-[Explore Asset Curator](https://peacheybyte.github.io/asset-curator/){: .btn }
+<div style="margin-top: 1rem;">
+  <a href="https://peacheybyte.github.io/asset-curator/" class="btn" style="background-color: #007bff; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; display: inline-block;">Explore Asset Curator</a>
+</div>
 
 ---
 
@@ -34,4 +37,6 @@ An advanced asset management solution featuring QR code scanning, maintenance tr
 
 A simple, lightweight text translator app built for quick and direct translations.
 
-[Explore EhWot](https://peacheybyte.github.io/ehwot/){: .btn }
+<div style="margin-top: 1rem;">
+  <a href="https://peacheybyte.github.io/ehwot/" class="btn" style="background-color: #007bff; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; display: inline-block;">Explore EhWot</a>
+</div>
