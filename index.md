@@ -10,10 +10,9 @@
 
   <div class="card">
     
-    <!-- Studio Header & Logo -->
+    <!-- Studio Header Logo (Text Removed) -->
     <div style="text-align: center; margin-bottom: 2rem;">
-      <img src="https://avatars.githubusercontent.com/u/175825310?v=4" alt="Peacheybyte Studios Logo" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 1rem;">
-      <h1 style="margin: 0; font-size: 2rem; color: #1a252f;">Peacheybyte Studios</h1>
+      <img src="PBS_LOGO.png" alt="Peacheybyte Studios Logo" style="max-width: 250px; width: 100%; height: auto; border-radius: 12px; margin: 0 auto;">
     </div>
 
     <p style="text-align: center; margin-bottom: 2rem; color: #4a5568;">
