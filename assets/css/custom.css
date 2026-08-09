@@ -85,3 +85,61 @@ body {
 .btn-link:hover {
   background: var(--primary-hover);
 }
+
+/* ==========================================================================
+   Mobile Responsive Rules
+   ========================================================================== */
+@media screen and (max-width: 768px) {
+  /* Reduce outer body padding to maximize screen real estate */
+  body {
+    padding: 16px 10px;
+  }
+
+  /* Adjust main container padding for small screens */
+  .studio-container {
+    padding: 24px 18px;
+    border-radius: 12px;
+  }
+
+  /* Scale down header titles for mobile displays */
+  .studio-title {
+    font-size: 1.8rem;
+  }
+
+  .studio-tagline {
+    font-size: 0.95rem;
+  }
+
+  /* Optimize card spacing and touch feedback */
+  .app-card {
+    padding: 16px;
+  }
+
+  .app-card h2 {
+    font-size: 1.3rem;
+  }
+
+  /* Make links/buttons easy to tap on mobile */
+  .btn-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+
+  /* Ensure Markdown tables scroll horizontally instead of overflowing */
+  table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Keep images responsive */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
