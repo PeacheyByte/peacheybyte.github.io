@@ -9,12 +9,16 @@ title: "The Asset Curator"
     Comprehensive Physical Asset Management & Lifecycle Tracking
   </p>
   
-  <div class="nav-buttons" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <div class="nav-buttons" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="{{ '/' | relative_url }}" class="btn-link">PeacheyByte Studios Home</a>
     <a href="{{ '/asset-curator/' | relative_url }}" class="btn-link">The Asset Curator Home</a>
     <a href="{{ '/asset-curator/user-guide.html' | relative_url }}" class="btn-link">User Guide</a>
     <a href="{{ '/asset-curator/privacy.html' | relative_url }}" class="btn-link">Privacy Policy</a>
   </div>
+
+  <a href="https://play.google.com/store/apps/details?id=YOUR_TAC_PACKAGE_NAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height: 60px;">
+  </a>
 </div>
 
 ---
@@ -47,3 +51,11 @@ Start immediately in Local Mode with zero setup or cloud accounts—your data st
 * **Visual & Detailed Records:** Store photos, purchase values, serial numbers, part numbers, and update timestamps.
 * **Reporting & Data Export:** Generate operational summaries and export database records to Excel whenever you need audits or backups.
 * **Label Printing Built-In:** Generate ready-to-print labels directly from your filtered inventory views.
+
+---
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://play.google.com/store/apps/details?id=YOUR_TAC_PACKAGE_NAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height: 60px;">
+  </a>
+</div>
