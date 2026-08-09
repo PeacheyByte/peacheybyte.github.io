@@ -8,9 +8,9 @@ title: "EhWot - Simple Text Translator"
   <p class="subtitle" style="font-size: 1.1rem; color: #555; margin-top: 0;">Fast & Direct Offline Text Translation</p>
   
   <div class="nav-buttons" style="display: flex; justify-content: center; gap: 10px; margin-top: 1.5rem; flex-wrap: wrap;">
-    <a href="https://peacheybyte.github.io/" class="btn" style="background-color: #007bff; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none;">PeacheyByte Studios Home</a>
-    <a href="https://peacheybyte.github.io/ehwot/" class="btn" style="background-color: #0056b3; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none;">EhWot Home</a>
-    <a href="privacy-policy.html" class="btn" style="background-color: #007bff; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none;">Privacy Policy</a>
+    <a href="{{ '/' | relative_url }}" class="btn-link">PeacheyByte Studios Home</a>
+    <a href="{{ '/ehwot/' | relative_url }}" class="btn-link">EhWot Home</a>
+    <a href="{{ '/ehwot/privacy-policy.html' | relative_url }}" class="btn-link">Privacy Policy</a>
   </div>
 </div>
 
