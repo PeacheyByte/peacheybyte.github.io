@@ -1,6 +1,7 @@
 theme: jekyll-theme-primer
 title: Peacheybyte Studios
 description: Software Development & Mobile Applications
+baseurl: ""
 include:
   - assets/css/custom.css
   - "google5c3e357712631093.html"
