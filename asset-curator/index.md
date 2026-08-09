@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "The Asset Curator | PeacheyByte Studios"
+title: "The Asset Curator"
 ---
 
 <div class="header-container" style="text-align: center; margin-bottom: 2rem;">
-  <h1 style="margin-bottom: 0.2rem;">The Asset Curator</h1>
+  <img src="{{ '/asset-curator/TAC-Logo.png' | relative_url }}" alt="The Asset Curator Logo" style="max-width: 120px; height: auto; margin-bottom: 1rem;">
   <p class="subtitle" style="font-size: 1.1rem; color: #555; margin-top: 0; margin-bottom: 1.2rem;">
     Comprehensive Physical Asset Management & Lifecycle Tracking
   </p>
