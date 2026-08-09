@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "The Collection Curator | PeacheyByte Studios"
+title: "The Collection Curator"
 ---
 
 <div class="header-container" style="text-align: center; margin-bottom: 2rem;">
-  <h1 style="margin-bottom: 0.2rem;">The Collection Curator</h1>
+  <img src="{{ '/collection-curator/Sellventory-icon-final.png' | relative_url }}" alt="The Collection Curator Logo" style="max-width: 120px; height: auto; margin-bottom: 1rem;">
   <p class="subtitle" style="font-size: 1.1rem; color: #555; margin-top: 0; margin-bottom: 1.2rem;">
     Inventory Made Simple for Buyers, Sellers, and Collectors
   </p>
