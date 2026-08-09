@@ -9,12 +9,16 @@ title: "The Collection Curator"
     Inventory Made Simple for Buyers, Sellers, and Collectors
   </p>
   
-  <div class="nav-buttons" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <div class="nav-buttons" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="{{ '/' | relative_url }}" class="btn-link">PeacheyByte Studios Home</a>
     <a href="{{ '/collection-curator/' | relative_url }}" class="btn-link">The Collection Curator Home</a>
     <a href="{{ '/collection-curator/user-guide.html' | relative_url }}" class="btn-link">User Guide</a>
     <a href="{{ '/collection-curator/privacy.html' | relative_url }}" class="btn-link">Privacy Policy</a>
   </div>
+
+  <a href="https://play.google.com/store/apps/details?id=YOUR_TCC_PACKAGE_NAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height: 60px;">
+  </a>
 </div>
 
 ---
@@ -31,3 +35,11 @@ With **The Collection Curator** you can:
 * **Use the Windows & Linux Companion.** *(Coming Soon!)* Work with your database on a bigger screen, making editing, browsing, and reporting faster and more comfortable.
 
 Everything is stored locally — no logins, no hidden syncs, and no internet required. The Collection Curator is designed to be lightweight, dependable, and under your control.
+
+---
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://play.google.com/store/apps/details?id=YOUR_TCC_PACKAGE_NAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height: 60px;">
+  </a>
+</div>
