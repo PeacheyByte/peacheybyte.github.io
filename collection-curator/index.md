@@ -1,7 +1,22 @@
 ---
 layout: default
-title: The Collection Curator
-tagline: Inventory Made Simple for Buyers, Sellers, and Collectors
+title: "The Collection Curator | PeacheyByte Studios"
+---
+
+<div class="header-container" style="text-align: center; margin-bottom: 2rem;">
+  <h1 style="margin-bottom: 0.2rem;">The Collection Curator</h1>
+  <p class="subtitle" style="font-size: 1.1rem; color: #555; margin-top: 0; margin-bottom: 1.2rem;">
+    Inventory Made Simple for Buyers, Sellers, and Collectors
+  </p>
+  
+  <div class="nav-buttons" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="{{ '/' | relative_url }}" class="btn-link">PeacheyByte Studios Home</a>
+    <a href="{{ '/collection-curator/' | relative_url }}" class="btn-link">The Collection Curator Home</a>
+    <a href="{{ '/collection-curator/user-guide.html' | relative_url }}" class="btn-link">User Guide</a>
+    <a href="{{ '/collection-curator/privacy.html' | relative_url }}" class="btn-link">Privacy Policy</a>
+  </div>
+</div>
+
 ---
 
 Inventory made simple — for buyers, sellers, and collectors.
@@ -9,18 +24,10 @@ Inventory made simple — for buyers, sellers, and collectors.
 **The Collection Curator** is built for buyers, sellers, and collectors who want a clear, reliable way to keep track of their items. Whether you are reselling at markets, managing an online store, or curating a personal collection, The Collection Curator helps you stay organised without relying on complicated tools or cloud accounts.
 
 With **The Collection Curator** you can:
-
-- **Record your items with photos and details.** Each entry can store a picture, purchase price, notes, and custom tags, giving you a complete view of what you own or intend to sell.
-- **Organise by tags and locations.** Group items by category, storage box, shelf, or any system that suits your workflow, so nothing gets lost or overlooked.
-- **Track purchases and sales.** Know exactly when and where you bought an item, what you paid, and the final selling price. This makes it easy to calculate your profit and spot trends in what moves quickly.
-- **Generate reports and exports.** Create spreadsheets for analysis, backup your records, or share summaries when you need them. Exporting is straightforward and works the same way across Android and the Companion desktop app.
-- **Use the Windows & Linux Companion.** *(Coming Soon!)* Work with your database on a bigger screen, making editing, browsing, and reporting faster and more comfortable.
+* **Record your items with photos and details.** Each entry can store a picture, purchase price, notes, and custom tags, giving you a complete view of what you own or intend to sell.
+* **Organise by tags and locations.** Group items by category, storage box, shelf, or any system that suits your workflow, so nothing gets lost or overlooked.
+* **Track purchases and sales.** Know exactly when and where you bought an item, what you paid, and the final selling price. This makes it easy to calculate your profit and spot trends in what moves quickly.
+* **Generate reports and exports.** Create spreadsheets for analysis, backup your records, or share summaries when you need them. Exporting is straightforward and works the same way across Android and the Companion desktop app.
+* **Use the Windows & Linux Companion.** *(Coming Soon!)* Work with your database on a bigger screen, making editing, browsing, and reporting faster and more comfortable.
 
 Everything is stored locally — no logins, no hidden syncs, and no internet required. The Collection Curator is designed to be lightweight, dependable, and under your control.
-
----
-
-<p>
-  <a href="{{ '/collection-curator/user-guide.html' | relative_url }}" class="btn-link">User Guide</a>
-  <a href="{{ '/collection-curator/privacy.html' | relative_url }}" class="btn-link">Privacy Policy</a>
-</p>
