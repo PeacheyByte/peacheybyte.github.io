@@ -1,10 +1,21 @@
 ---
 layout: default
-title: User Guide | The Asset Curator
-tagline: Comprehensive Physical Asset Management & Lifecycle Tracking
+title: "User Guide | The Asset Curator"
 ---
 
-# The Asset Curator - User Guide
+<div class="header-container" style="text-align: center; margin-bottom: 2rem;">
+  <p class="subtitle" style="font-size: 1.1rem; color: #555; margin-top: 0; margin-bottom: 1.2rem;">
+    Comprehensive Physical Asset Management & Lifecycle Tracking
+  </p>
+  
+  <div class="nav-buttons" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="{{ '/' | relative_url }}" class="btn-link">PeacheyByte Studios Home</a>
+    <a href="{{ '/asset-curator/' | relative_url }}" class="btn-link">Back to TAC Home</a>
+    <a href="{{ '/asset-curator/privacy.html' | relative_url }}" class="btn-link">Privacy Policy</a>
+  </div>
+</div>
+
+---
 
 Managing physical equipment, tools, and valuable property often turns into guesswork when systems rely on memory or scattered spreadsheets. **The Asset Curator (TAC)** is built to solve that exact problem. It gives individuals, small businesses, and teams a practical, dependable system to know precisely what they own, where each item currently sits, what condition it’s in, and when it requires maintenance.
 
@@ -37,6 +48,6 @@ Start immediately in Local Mode with zero setup or cloud accounts—your data st
 
 ---
 
-<p>
+<div style="text-align: center; margin-top: 2rem;">
   <a href="{{ '/asset-curator/' | relative_url }}" class="btn-link">Back to TAC Home</a>
-</p>
+</div>
