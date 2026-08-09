@@ -1,10 +1,21 @@
 ---
 layout: default
-title: User Guide | The Collection Curator
-tagline: Inventory Made Simple for Buyers, Sellers, and Collectors
+title: "User Guide | The Collection Curator"
 ---
 
-# The Collection Curator — User Guide
+<div class="header-container" style="text-align: center; margin-bottom: 2rem;">
+  <p class="subtitle" style="font-size: 1.1rem; color: #555; margin-top: 0; margin-bottom: 1.2rem;">
+    Inventory Made Simple for Buyers, Sellers, and Collectors
+  </p>
+  
+  <div class="nav-buttons" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="{{ '/' | relative_url }}" class="btn-link">PeacheyByte Studios Home</a>
+    <a href="{{ '/collection-curator/' | relative_url }}" class="btn-link">Back to TCC Home</a>
+    <a href="{{ '/collection-curator/privacy.html' | relative_url }}" class="btn-link">Privacy Policy</a>
+  </div>
+</div>
+
+---
 
 Welcome to the official user guide for **The Collection Curator**. This guide walks you through setting up your inventory, organizing items by locations and tags, tracking financials, and exporting records.
 
@@ -26,6 +37,6 @@ Welcome to the official user guide for **The Collection Curator**. This guide wa
 
 ---
 
-<p>
+<div style="text-align: center; margin-top: 2rem;">
   <a href="{{ '/collection-curator/' | relative_url }}" class="btn-link">Back to TCC Home</a>
-</p>
+</div>
