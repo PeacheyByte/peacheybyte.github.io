@@ -40,3 +40,13 @@ A simple, lightweight text translator app built for quick and direct translation
 <div style="margin-top: 1rem;">
   <a href="https://peacheybyte.github.io/ehwot/" class="btn" style="background-color: #007bff; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; display: inline-block;">Explore EhWot</a>
 </div>
+
+---
+
+### The Ring Thing
+
+A practical workshop calculator for jewellers and makers to calculate exact metal blank lengths across international ring sizing scales.
+
+<div style="margin-top: 1rem;">
+  <a href="https://peacheybyte.github.io/the-ring-thing/" class="btn" style="background-color: #007bff; color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; display: inline-block;">Explore The Ring Thing</a>
+</div>
