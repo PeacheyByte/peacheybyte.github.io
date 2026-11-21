@@ -3,6 +3,13 @@ layout: default
 title: "The Ring Thing"
 ---
 
+<style>
+  .ring-table { width: 100%; border-collapse: collapse; margin: 1rem 0 1.5rem; font-size: 0.95rem; }
+  .ring-table th, .ring-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #e2e8f0; }
+  .ring-table thead tr { background-color: #f4f7fb; border-bottom: 2px solid #cbd5e1; }
+  .ring-table tbody tr:nth-child(even) { background-color: #fafafa; }
+</style>
+
 <div class="header-container" style="text-align: center; margin-bottom: 2rem;">
   <img src="{{ '/the-ring-thing/TheRingThing_icon.jpg' | relative_url }}" alt="The Ring Thing Logo" style="max-width: 120px; height: auto; border-radius: 20px; margin-bottom: 1rem;">
   <p class="subtitle" style="font-size: 1.1rem; color: #555; margin-top: 0; margin-bottom: 1.2rem;">
@@ -42,28 +49,49 @@ Everything runs locally on your device—no accounts, no sign-ins, and no intern
 
 Reference values below match the exact conversion formulas used in **The Ring Thing** (shown in 0.5 mm inner diameter increments; the app calculates in 0.1 mm steps).
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 1rem; margin-bottom: 1.5rem; font-size: 0.95rem;">
+<table class="ring-table">
   <thead>
-    <tr style="background-color: #f4f7fb; border-bottom: 2px solid #cbd5e1;">
-      <th style="padding: 10px 12px; text-align: left;">Inner Diameter (mm)</th>
-      <th style="padding: 10px 12px; text-align: left;">AU / UK</th>
-      <th style="padding: 10px 12px; text-align: left;">US / CA</th>
-      <th style="padding: 10px 12px; text-align: left;">EU / ISO</th>
-      <th style="padding: 10px 12px; text-align: left;">JP</th>
+    <tr>
+      <th>Inner Diameter (mm)</th>
+      <th>AU / UK</th>
+      <th>US / CA</th>
+      <th>EU / ISO</th>
+      <th>JP</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">12.0</td><td style="padding: 8px 12px;">A</td><td style="padding: 8px 12px;">½</td><td style="padding: 8px 12px;">37.5</td><td style="padding: 8px 12px;">-</td></tr>
-    <tr style="background-color: #fafafa; border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">12.5</td><td style="padding: 8px 12px;">B</td><td style="padding: 8px 12px;">1</td><td style="padding: 8px 12px;">39.5</td><td style="padding: 8px 12px;">-</td></tr>
-    <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">13.0</td><td style="padding: 8px 12px;">C½</td><td style="padding: 8px 12px;">1¾</td><td style="padding: 8px 12px;">41</td><td style="padding: 8px 12px;">1</td></tr>
-    <tr style="background-color: #fafafa; border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">13.5</td><td style="padding: 8px 12px;">D½</td><td style="padding: 8px 12px;">2¼</td><td style="padding: 8px 12px;">42.5</td><td style="padding: 8px 12px;">2.5</td></tr>
-    <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">14.0</td><td style="padding: 8px 12px;">F</td><td style="padding: 8px 12px;">3</td><td style="padding: 8px 12px;">44</td><td style="padding: 8px 12px;">4</td></tr>
-    <tr style="background-color: #fafafa; border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">14.5</td><td style="padding: 8px 12px;">G</td><td style="padding: 8px 12px;">3½</td><td style="padding: 8px 12px;">45.5</td><td style="padding: 8px 12px;">5.5</td></tr>
-    <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">15.0</td><td style="padding: 8px 12px;">H½</td><td style="padding: 8px 12px;">4¼</td><td style="padding: 8px 12px;">47</td><td style="padding: 8px 12px;">7</td></tr>
-    <tr style="background-color: #fafafa; border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">15.5</td><td style="padding: 8px 12px;">I½</td><td style="padding: 8px 12px;">4¾</td><td style="padding: 8px 12px;">48.5</td><td style="padding: 8px 12px;">8.5</td></tr>
-    <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">16.0</td><td style="padding: 8px 12px;">K</td><td style="padding: 8px 12px;">5½</td><td style="padding: 8px 12px;">50.5</td><td style="padding: 8px 12px;">10</td></tr>
-    <tr style="background-color: #fafafa; border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">16.5</td><td style="padding: 8px 12px;">L</td><td style="padding: 8px 12px;">6</td><td style="padding: 8px 12px;">52</td><td style="padding: 8px 12px;">11.5</td></tr>
-    <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">17.0</td><td style="padding: 8px 12px;">M½</td><td style="padding: 8px 12px;">6½</td><td style="padding: 8px 12px;">53.5</td><td style="padding: 8px 12px;">13</td></tr>
-    <tr style="background-color: #fafafa; border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">17.5</td><td style="padding: 8px 12px;">N½</td><td style="padding: 8px 12px;">7¼</td><td style="padding: 8px 12px;">55</td><td style="padding: 8px 12px;">14.5</td></tr>
-    <tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 8px 12px;">18.0</td><td style="padding: 8px 12px;">P</td><td style="padding: 8px 12px;">7¾</td><td style="padding: 8px 12px;">56.5</td><td style="padding: 8px 12px;">16</td></tr>
-    <tr style="background-color: #fafafa; border
+    <tr><td>12.0</td><td>A</td><td>½</td><td>37.5</td><td>-</td></tr>
+    <tr><td>12.5</td><td>B</td><td>1</td><td>39.5</td><td>-</td></tr>
+    <tr><td>13.0</td><td>C½</td><td>1¾</td><td>41</td><td>1</td></tr>
+    <tr><td>13.5</td><td>D½</td><td>2¼</td><td>42.5</td><td>2.5</td></tr>
+    <tr><td>14.0</td><td>F</td><td>3</td><td>44</td><td>4</td></tr>
+    <tr><td>14.5</td><td>G</td><td>3½</td><td>45.5</td><td>5.5</td></tr>
+    <tr><td>15.0</td><td>H½</td><td>4¼</td><td>47</td><td>7</td></tr>
+    <tr><td>15.5</td><td>I½</td><td>4¾</td><td>48.5</td><td>8.5</td></tr>
+    <tr><td>16.0</td><td>K</td><td>5½</td><td>50.5</td><td>10</td></tr>
+    <tr><td>16.5</td><td>L</td><td>6</td><td>52</td><td>11.5</td></tr>
+    <tr><td>17.0</td><td>M½</td><td>6½</td><td>53.5</td><td>13</td></tr>
+    <tr><td>17.5</td><td>N½</td><td>7¼</td><td>55</td><td>14.5</td></tr>
+    <tr><td>18.0</td><td>P</td><td>7¾</td><td>56.5</td><td>16</td></tr>
+    <tr><td>18.5</td><td>Q½</td><td>8½</td><td>58</td><td>17.5</td></tr>
+    <tr><td>19.0</td><td>R½</td><td>9</td><td>59.5</td><td>19</td></tr>
+    <tr><td>19.5</td><td>T</td><td>9¾</td><td>61.5</td><td>20.5</td></tr>
+    <tr><td>20.0</td><td>U</td><td>10¼</td><td>63</td><td>22</td></tr>
+    <tr><td>20.5</td><td>V½</td><td>11</td><td>64.5</td><td>23.5</td></tr>
+    <tr><td>21.0</td><td>W½</td><td>11½</td><td>66</td><td>25</td></tr>
+    <tr><td>21.5</td><td>Y</td><td>12¼</td><td>67.5</td><td>26.5</td></tr>
+    <tr><td>22.0</td><td>Z</td><td>12¾</td><td>69</td><td>28</td></tr>
+    <tr><td>22.5</td><td>Z+1½</td><td>13¼</td><td>70.5</td><td>29.5</td></tr>
+    <tr><td>23.0</td><td>Z+2½</td><td>14</td><td>72.5</td><td>31</td></tr>
+    <tr><td>23.5</td><td>Z+4</td><td>14½</td><td>74</td><td>32.5</td></tr>
+    <tr><td>24.0</td><td>Z+5</td><td>15¼</td><td>75.5</td><td>34</td></tr>
+  </tbody>
+</table>
+
+---
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://play.google.com/store/apps/details?id=com.peacheybyte.theringthing" target="_blank" rel="noopener noreferrer">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height: 60px;">
+  </a>
+</div>
