@@ -4,8 +4,8 @@ title: "The Ring Thing"
 ---
 
 <style>
-  .ring-table { width: 100%; border-collapse: collapse; margin: 1rem 0 1.5rem; font-size: 0.95rem; }
-  .ring-table th, .ring-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #e2e8f0; }
+  .ring-table { width: auto; border-collapse: collapse; margin: 1rem auto 1.5rem; font-size: 0.95rem; }
+  .ring-table th, .ring-table td { padding: 6px 16px; text-align: center; border-bottom: 1px solid #e2e8f0; white-space: nowrap; }
   .ring-table thead tr { background-color: #f4f7fb; border-bottom: 2px solid #cbd5e1; }
   .ring-table tbody tr:nth-child(even) { background-color: #fafafa; }
 </style>
